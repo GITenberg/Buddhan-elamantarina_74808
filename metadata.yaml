@@ -1,0 +1,48 @@
+_repo: Buddhan-elamantarina_74808
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wellroos, Alfred Rikard
+    aliases:
+    - Wellroos, Alfr. R.
+    - Wellroos, Alfred Rikhard
+    - Wellroos, Alfred R.
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '57659'
+    url: http://www.gutenberg.org/2009/agents/57659
+    wikipedia: https://fi.wikipedia.org/wiki/Alfred_Rikard_Wellroos
+creator:
+  author:
+    agent_name: Takayama, Chogyu
+    aliases:
+    - Gaoshan, Chuniu
+    - Takayama, Rinjiro
+    - 高山樗牛
+    - 高山林次郎
+    - Takajama, S.
+    birthdate: 1871
+    deathdate: 1902
+    gutenberg_agent_id: '57658'
+    url: http://www.gutenberg.org/2009/agents/57658
+    wikipedia: https://en.wikipedia.org/wiki/Takayama_Chogy%C5%AB
+description: ''
+gutenberg_issued: '2024-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74808'
+language: fi
+pgterms:marc905: 20160624113713takajama
+pgterms:marc906: '1904'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bOtava, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gautama Buddha'
+- !lcc 'BQ'
+- GITenberg
+title: Buddhan elämäntarina
+url: http://www.gutenberg.org/ebooks/74808
