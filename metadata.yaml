@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '57659'
     url: http://www.gutenberg.org/2009/agents/57659
     wikipedia: https://fi.wikipedia.org/wiki/Alfred_Rikard_Wellroos
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Takayama, Chogyu
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57658
     wikipedia: https://en.wikipedia.org/wiki/Takayama_Chogy%C5%AB
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74808#Buddhan-elamantarina
 gutenberg_issued: '2024-11-27'
 gutenberg_type: Text
 identifiers:
